@@ -1,0 +1,1 @@
+This is a python 2.7 script that uses the pygame and flickrapi libraries.  It takes a picture from a webcam at user-specified intervals and then uploads that picture to a flickr account.
